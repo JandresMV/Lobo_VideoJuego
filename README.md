@@ -1,6 +1,6 @@
 # LOBOS INFORMATICOS
 
-![Imagen Lobos Informáticos](https://github.com/JandresMV/VideoJuego/blob/main/Lobos%20Informaticos%20600x600.jpeg?raw=true)
+![Imagen Lobos Informáticos](https://github.com/JandresMV/VideoJuego/blob/main/Imagenes_Main/Lobos%20Informaticos%20600x600.jpeg)
 
 Somos un grupo integrado por 5 estudiantes del programa de ingeniería multimedia, (3 hombres y 2 mujeres), dedicados a la creación de un video juego, dentro del curso de **programación para videojuegos** de la **UNAD**.
 
@@ -9,7 +9,7 @@ Somos un grupo integrado por 5 estudiantes del programa de ingeniería multimedi
 
 ### Jeferson Andres Martinez
 
-![Foto Jeferson Martinez](C:\Users\Andres Martinez\Source\Repos\JandresMV\VideoJuego\Imagenes_Main\Foto 3x4 Jeferson Andres Martinez_.png)
+![Foto Jeferson Martinez](https://github.com/JandresMV/VideoJuego/blob/main/Imagenes_Main/Foto%203x4%20Jeferson%20Andres%20Martinez_.png)
 
 Estudiante de Ingeniería Multimedia, 33 años; apasionado por el mundo de la tecnología multimedia. 
 
