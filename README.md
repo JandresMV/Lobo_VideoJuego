@@ -1,19 +1,20 @@
 # LOBOS INFORMATICOS
 
-![Imagen Lobos Inform醫icos](https://github.com/JandresMV/VideoJuego/blob/main/Lobos%20Informaticos%20600x600.jpeg?raw=true)
+![Imagen Lobos Inform谩ticos](https://github.com/JandresMV/VideoJuego/blob/main/Lobos%20Informaticos%20600x600.jpeg?raw=true)
 
-Somos un grupo integrado por 4 estudiantes del programa de ingenier韆 multimedia, (3 hombres y 1 mujer), dedicados a la crear durante todo el curso un proyecto de video juego, dentro del curso de **programaci髇 para videojuegos** de la **UNAD**.
+Somos un grupo integrado por 4 estudiantes del programa de ingenier铆a multimedia, (3 hombres y 1 mujer), dedicados a la crear durante todo el curso un proyecto de video juego, dentro del curso de **programaci贸n para videojuegos** de la **UNAD**.
 
 
 ## LOBO PERFILES
 
 ### Jeferson Andres Martinez
 
-![https://github.com/JandresMV/VideoJuego/blob/main/Foto%203x4%20Jeferson%20Andres%20Martinez_.png?raw=true)
+![Foto Jeferson Martinez](https://github.com/JandresMV/VideoJuego/blob/main/Foto%203x4%20Jeferson%20Andres%20Martinez_.png?raw=true)
 
-Estudiante de Ingenier韆 Multimedia, 33 a駉s; apasionado por el mundo de la tecnolog韆 multimedia. 
+Estudiante de Ingenier铆a Multimedia, 33 a帽os; apasionado por el mundo de la tecnolog铆a multimedia. 
 
-Los roles que me interesan son los de PROGRAMADOR por que es quien desarrolla el c骴igo y la l骻ica del juego para que funcione correctamente, ARTISTA GRAFICO por que es quien crea los elementos visuales del juego, como los personajes, escenarios, efectos especiales, animaciones, interfaces de usuario, entre otros y DISE袮DOR DE SONIDO por que es quien se encarga de la creaci髇 de efectos de sonido, m鷖ica y ambientaci髇 sonora del juego para mejorar la experiencia del jugador. 
+Los roles que me interesan son los de PROGRAMADOR por que es quien desarrolla el c贸digo y la l贸gica del juego para que funcione correctamente, ARTISTA GRAFICO por que es quien crea los elementos visuales del juego, como los personajes, escenarios, efectos especiales, animaciones, interfaces de usuario, entre otros y DISE脩ADOR DE SONIDO por que es quien se encarga de la creaci贸n de efectos de sonido, m煤sica y ambientaci贸n sonora del juego para mejorar la experiencia del jugador. 
 
-Actualmente me encuentro ubicado en el Municipio de la Uni髇 Nari駉
+Actualmente me encuentro ubicado en el Municipio de la Uni贸n Nari帽o
 
+### Otro Perfil
