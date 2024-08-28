@@ -2,7 +2,7 @@
 
 ![Imagen Lobos Informáticos](https://github.com/JandresMV/VideoJuego/blob/main/Lobos%20Informaticos%20600x600.jpeg?raw=true)
 
-Somos un grupo integrado por 4 estudiantes del programa de ingeniería multimedia, (3 hombres y 2 mujer), dedicados a la creación de un video juego, dentro del curso de **programación para videojuegos** de la **UNAD**.
+Somos un grupo integrado por 4 estudiantes del programa de ingeniería multimedia, (3 hombres y 2 mujeres), dedicados a la creación de un video juego, dentro del curso de **programación para videojuegos** de la **UNAD**.
 
 
 ## LOBO PERFILES
