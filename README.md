@@ -9,7 +9,7 @@ Somos un grupo integrado por 5 estudiantes del programa de ingeniería multimedi
 
 ### Jeferson Andres Martinez
 
-![Foto Jeferson Martinez](https://github.com/JandresMV/VideoJuego/blob/main/Foto%203x4%20Jeferson%20Andres%20Martinez_.png?raw=true)
+![Foto Jeferson Martinez](C:\Users\Andres Martinez\Source\Repos\JandresMV\VideoJuego\Imagenes_Main\Foto 3x4 Jeferson Andres Martinez_.png)
 
 Estudiante de Ingeniería Multimedia, 33 años; apasionado por el mundo de la tecnología multimedia. 
 
