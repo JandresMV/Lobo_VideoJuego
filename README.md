@@ -19,4 +19,6 @@ Actualmente me encuentro ubicado en el Municipio de la Unión Nariño
 
 ### Kevin Hoyos
 
-![Foto Kevin Hoyos](https://github.com/JandresMV/VideoJuego/blob/main/Imagenes_Main/Foto%203x4%20Jeferson%20Andres%20Martinez_.png)
+![Foto Kevin Hoyos](https://github.com/JandresMV/VideoJuego/blob/main/Imagenes_Main/Kevin-Hoyos-Foto-3x4.jpg)
+
+Estudiante de Ingeniería Multimedia, 33 años 
