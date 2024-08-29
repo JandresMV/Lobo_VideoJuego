@@ -22,3 +22,13 @@ Actualmente me encuentro ubicado en el Municipio de la Unión Nariño
 ![Foto Kevin Hoyos](https://github.com/JandresMV/VideoJuego/blob/main/Imagenes_Main/Kevin-Hoyos-Foto-3x4.jpg)
 
 Estudiante de Ingeniería Multimedia, 22 años 
+
+### Juan Esteban Echeverri
+
+![Foto Juan Esteban](https://github.com/JandresMV/VideoJuego/blob/main/Imagenes_Main/perfi_Juan_Esteban.jpg)
+
+Estudiante de ingeniería multimedia, 21 años. Me gustan los videojuegos y contenidos multimedia.
+
+Los roles que me interesa desarrollar son Game Designer y Level Designer, ya que me apasiona crear experiencias inmersivas y narrativas que conecten con los jugadores, además de diseñar entornos que desafíen y sorprendan a los usuarios. Estoy motivado por la posibilidad de dar vida a ideas innovadoras y contribuir a la evolución de la industria del entretenimiento interactivo.
+
+Actualmente me encuentro ubicado en la ciudad de Cali.
