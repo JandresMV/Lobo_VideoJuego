@@ -21,4 +21,4 @@ Actualmente me encuentro ubicado en el Municipio de la Unión Nariño
 
 ![Foto Kevin Hoyos](https://github.com/JandresMV/VideoJuego/blob/main/Imagenes_Main/Kevin-Hoyos-Foto-3x4.jpg)
 
-Estudiante de Ingeniería Multimedia, 33 años 
+Estudiante de Ingeniería Multimedia, 22 años 
