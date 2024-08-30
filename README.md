@@ -21,4 +21,9 @@ Actualmente me encuentro ubicado en el Municipio de la Unión Nariño
 
 ![Foto Kevin Hoyos](https://github.com/JandresMV/VideoJuego/blob/main/Imagenes_Main/Kevin-Hoyos-Foto-3x4.jpg)
 
-Estudiante de Ingeniería Multimedia, 22 años 
+Estudiante de Ingeniería Multimedia, 22 años; me desempeño como Realizador Audiovisual y actualmente vivo en Cali, Valle del Cauca.
+
+Los roles que considero que podría aportar al equipo de Lobos Informaticos seria en base a mi experiencia en el desarrollo de proyectos audiovisuales, lo cual me capacita en diseñar detalladamente aspectos del proceso de preproducción, desde la conceptualización narrativa, la planificación de escenas y la elaboración de guiones técnicos que establezcan una base sólida para el desarrollo del videojuego.
+
+Mi habilidad para trabajar en equipo y comprensión con las fechas de entrega garantizan una integración eficiente para el desarrollo del videojuego, aportando creatividad como técnica al proceso.
+
