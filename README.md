@@ -36,4 +36,11 @@ Los roles que me interesa desarrollar son Game Designer y Level Designer, ya que
 Actualmente me encuentro ubicado en la ciudad de Cali.
 
 
-### Otro Perfil
+### Angie Lorena Ramirez
+
+![Foto Angie Ramirez](https://github.com/JandresMV/VideoJuego/blob/3ccd0c84a9d199e3ed167490b47e3427397e46a7/Imagenes_Main/Angie%20Ramirez.png?raw=true)
+
+Soy estudiante de Ingeniería Multimedia en la ciudad de cali,con enfoque en marketing digital.
+Me encanta el arte, el diseño y todo lo que creativo. Mis Hobbys son leer, pintar y ver pelis.
+Los roles que me interesan es el de diseñadora narrativa ya que me gusta mucho la parte creativa: 
+crear historias, escenas, escribir guiones, y producir material auditivo, así como audiovisual.
