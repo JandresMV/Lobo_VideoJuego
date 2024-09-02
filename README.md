@@ -48,3 +48,5 @@ Soy estudiante de Ingeniería Multimedia en la ciudad de cali,con enfoque en mar
 Me encanta el arte, el diseño y todo lo que creativo. Mis Hobbys son leer, pintar y ver pelis.
 Los roles que me interesan es el de diseñadora narrativa ya que me gusta mucho la parte creativa: 
 crear historias, escenas, escribir guiones, y producir material auditivo, así como audiovisual.
+
+### Otro Perfil
