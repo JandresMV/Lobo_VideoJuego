@@ -1,5 +1,4 @@
-﻿################################################################################
-# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
-################################################################################
-
-*.sqlite
+.vs/
+/.vs/VideoJuego/v17/.wsuo
+/.gitignore
+/.vs/slnx.sqlite
