@@ -45,8 +45,13 @@ Actualmente me encuentro ubicado en la ciudad de Cali.
 ![Foto Angie Ramirez](https://github.com/JandresMV/VideoJuego/blob/3ccd0c84a9d199e3ed167490b47e3427397e46a7/Imagenes_Main/Angie%20Ramirez.png?raw=true)
 
 Soy estudiante de Ingeniería Multimedia en la ciudad de cali,con enfoque en marketing digital.
-Me encanta el arte, el diseño y todo lo que creativo. Mis Hobbys son leer, pintar y ver pelis.
+Tengo 36 años de edad mi tipo de sangre es B+; Me encanta el arte, el diseño y todo lo que creativo. Mis Hobbys son leer, pintar y ver pelis.
 Los roles que me interesan es el de diseñadora narrativa ya que me gusta mucho la parte creativa: 
 crear historias, escenas, escribir guiones, y producir material auditivo, así como audiovisual.
 
-### Otro Perfil
+Dato de contacto: 
+
+Cel:3113029327
+Correos: Monet.lorelai@gmail.com y alramirezgo@unadvirtual.edu.co
+Codigo Postal:76001
+Skype:https://join.skype.com/invite/sgoGfIz2XYRn
