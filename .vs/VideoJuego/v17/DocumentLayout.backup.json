@@ -1,12 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Andres Martinez\\Source\\Repos\\JandresMV\\VideoJuego\\",
+<<<<<<< HEAD
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andres Martinez\\Source\\Repos\\JandresMV\\VideoJuego\\PRUEBA (2).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PRUEBA (2).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
+=======
+  "Documents": [],
+>>>>>>> origin/Jeferson_Martinez
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
+=======
+          "SelectedChildIndex": -1,
+>>>>>>> origin/Jeferson_Martinez
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,6 +33,7 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PRUEBA (2).md",
@@ -38,6 +47,8 @@
               "EditorCaption": ""
             },
             {
+=======
+>>>>>>> origin/Jeferson_Martinez
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
